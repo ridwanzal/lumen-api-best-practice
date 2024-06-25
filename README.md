@@ -30,7 +30,7 @@ php artisan migrate:refresh
 php artisan db:seed
 ```
 
-#### Check log 
+### Check log 
 Check on 
 ```
 e.g:
