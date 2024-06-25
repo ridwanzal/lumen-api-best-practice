@@ -4,7 +4,7 @@ Date of conduct : 24-25 June 2024
 
 
 ### Notes :
-There will be 2 tables to create books and authors, everythings need to implemented.
+There will be 2 tables to create books and authors, everythings need to be used, in this project.
 
 ### Running the app api
 
